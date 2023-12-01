@@ -1,0 +1,50 @@
+
+
+ header{
+    background-color: #030303;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+ }
+
+ .bt1{
+   position: relative;
+   right: 11rems;
+    background-color: #0097ab;
+    justify-content: space-between;
+    width: 15rem;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 10px;
+     bottom: -12rem;
+ }
+ .bt2{
+   position: absolute;
+   right: 12rem;
+   background-color: #0097ab;
+     width: 15rem;
+    color: white;
+    border: none;
+    padding: 15px 32px;
+     text-align: center;
+     text-decoration: none;
+     display: inline-block;
+     font-size: 16px;
+     margin: 4px 2px;
+     cursor: pointer;
+     border-radius: 10px;
+   bottom: 12rem;
+ }
+
+ button:hover{
+    background-color: #002060;
+ }
